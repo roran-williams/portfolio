@@ -36,7 +36,7 @@
   </p>
 
   <p align="center">
-    <a href="https://arifszn.github.io/gitprofile">View Demo</a>
+    <a href="https://roran-williams.github.io/portfolio">View Demo</a>
     ·
     <a href="https://github.com/arifszn/gitprofile/issues">Report Bug</a>
     ·
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arifszn.github.io/gitprofile">
+  <a href="https://roran-williams.github.io/portfolio">
     <img src="https://github.com/arifszn/gitprofile/assets/45073703/eb6c38a4-ac92-4006-869b-e4e24f6f5cf6" alt="Preview" width="60%"/>
   </a>
   <br/>
@@ -72,7 +72,7 @@
 ✓ [Publication Section](#publications)  
 ✓ [Blog Posts Section](#blog-posts)
 
-To view a live example, **[click here](https://arifszn.github.io/gitprofile)**.
+To view a live example, **[click here](https://roran-williams.github.io/portfolio)**.
 
 <p align="center">
   <img src="https://github.com/arifszn/gitprofile/assets/45073703/406e8368-415a-42ef-89c5-d43cc8bbeb19" alt="Themes">

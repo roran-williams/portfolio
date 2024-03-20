@@ -231,11 +231,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  <footer>
-  <p>Special thanks to <a href="https://github.com/arifszn/gitprofile" target="_blank" rel="noopener noreferrer">GitProfile</a>
-    for providing this template.</p>
-</footer>
-
+  footer: `Special thanks to <a 
+      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      target="_blank"
+      rel="noreferrer"
+    >GitProfile</a> for providing this template.`,
 
   enablePWA: true,
 };

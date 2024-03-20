@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['roran-williams/portfolio', 'roran-williams/roran-williams'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [''], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -52,13 +52,14 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of roran williams',
+    title: 'roran williams portfolio',
     description: '',
-    imageURL: '',
+    imageURL:
+      'https://user-images.githubusercontent.com/74038190/215768933-8904f263-b421-4fd1-a5b0-83c1f07df757.png',
   },
   social: {
     linkedin: 'emmanuel-saha',
-    twitter: 'roran-williams',
+    twitter: 'roran__williams',
     mastodon: '',
     researchGate: '',
     facebook: '',
@@ -76,8 +77,7 @@ const CONFIG = {
     email: 'rorannwilliams@gmail.com',
   },
   resume: {
-    fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -220,13 +220,20 @@ const CONFIG = {
 
     // Custom theme, applied to `procyon` theme
     customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
-      accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#E3E3ED',
-      '--rounded-box': '3rem',
-      '--rounded-btn': '3rem',
+      // Primary color for key elements or actions
+      primary: '#0366d6',
+      // Secondary color for complementary elements or actions
+      secondary: '#6e5494',
+      // Accent color for highlighting or emphasizing certain elements
+      accent: '#28a745',
+      // Neutral color for backgrounds or other elements to provide contrast
+      neutral: '#0d1117',
+      // Base color for general elements
+      'base-100': '#161b22',
+      // Custom CSS variable for rounded box borders
+      '--rounded-box': '0.5rem',
+      // Custom CSS variable for rounded button borders
+      '--rounded-btn': '0.5rem',
     },
   },
 

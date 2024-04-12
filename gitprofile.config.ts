@@ -238,11 +238,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Special thanks to <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> for providing this template.`,
+  footer: `Special thanks to GitProfile`,
 
   enablePWA: true,
 };

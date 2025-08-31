@@ -58,8 +58,8 @@ const CONFIG = {
       'https://user-images.githubusercontent.com/74038190/215768933-8904f263-b421-4fd1-a5b0-83c1f07df757.png',
   },
   social: {
-    linkedin: 'emmanuel-saha',
-    twitter: 'roran__williams',
+    linkedin: '',
+    twitter: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
@@ -67,14 +67,14 @@ const CONFIG = {
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'roran-williams',
-    dev: 'roran-williams',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: '',
     phone: '',
-    email: 'rorannwilliams@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
